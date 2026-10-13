@@ -1,0 +1,33 @@
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,#,Item,Package Quantity,Quantity Used,Package Cost,Final Unit Cost,Link,Seller,Notes
+,1,Attiny 85,10,1,$34.00,$3.40,https://www.amazon.com/10Pair-ATtiny85-20PU-sockets-Flash-ATtiny85/dp/B0FCYW4XYV/ref=sr_1_2_sspa?crid=H6MAFFH7RSX8&dib=eyJ2IjoiMSJ9.9MP6pmxIowas6Bn57fg1CEKBOxMQNyQECSr3Vu8AsNdX--delNxAOudfqXWOND29j4P6cevJRvC-9CMnfjJ9z7v5NndVSALrXtWCr6vpGOw8Nhi-Ees8WDJEbPyGr4VoMrCH2pMMDJT74BzDLs2CswZuCbTLgk9zPJBn52Z6Wd_eBP_eKfukom149Izt9cw5kI6vH0krM06RfSMxEF-wyxjEIqlk8SqbWTYwx95E1oc.IBtcbxR_48xuM7pW90UGWbuplp8Fv_7b55kWwvtOxGw&dib_tag=se&keywords=attiny85&qid=1789866574&sprefix=attiny+85%2Caps%2C142&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,,
+,2,128x64 Oled Display,3,1,$10.00,$3.33,https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_4?crid=3DAAYXSULEYPF&dib=eyJ2IjoiMSJ9.6uJuI5cggaMKzcvI3mu-diOU5mtas3ObkIP02oYgUGs9bqowABgP7BIflj1HIDwDw2a2g2XJso9pDFZ9D05_Um4W93yFkqzg29-egztDMWjPptAc9Q5HvGKy0HEQZnLIgTJFLMwtQ8QExFlWAOfm3Kig8CiB_vMyGqr49632qbhh2gDa3EJSBPFnvtenQ1SAsBcUa2PIUk0pROvNuxOr2UyXlyaZrKJiemX7Iwe7T6M.S5GLnkUOj7vttZHoONrvo4TMrm_Onwiqrgus20hdK0g&dib_tag=se&keywords=128x64%2Boled%2Bdisplay&qid=1789867288&sprefix=128x64%2Boled%2Bdisplay%2Caps%2C285&sr=8-4&th=1,,
+,3,DS3231 Compact RTC Module,4,1,$10.00,$2.50,https://www.amazon.com/Dorhea-DS3231-Module-Memory-Raspberry/dp/B08X4H3NBR/ref=sr_1_3?crid=3EZB83WE76ZR8&dib=eyJ2IjoiMSJ9.g2mOfdpaYMq931b54jXUocF2k0jSjUg_hFO8vBuhhAkYcHBSdOHm9xRMtGvLJzNrr_zGSmIBdKd5Ga8Wajenyy5ktSOWvfIMmNXoVl-5s_NEy8hmfGxXX9zMdUgzmvN3XxoyH8Zn5OBBmGGQgiP12_P9_qlDwAuE4-KZWJ-KhhS6xYbzYHHZTPko_P8uMCozrKCK_hRC8JpfG7MV2HcN7WyBTCV2mk2sIMRZN7u1Oo8.ATW_8hO-8dpp89LSjvgYJS7xDLUlHfquLZTj0dUmf2U&dib_tag=se&keywords=Ds3231%2Brtc%2Bmodule&qid=1789867420&sprefix=ds3231%2Brtc%2Bmodul%2Caps%2C190&sr=8-3&th=1,,
+,4,Push Button,120,5,$7.00,$0.29,https://www.amazon.com/QTEATAK-Momentary-Tactile-Button-Switch/dp/B07VSNN9S2/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.d12ea098-dcb9-49c6-b8ab-df62d91eb787%3Aamzn1.sym.d12ea098-dcb9-49c6-b8ab-df62d91eb787&crid=3J5P4K31ACU97&cv_ct_cx=push%2Bbutton&keywords=push%2Bbutton&pd_rd_i=B07VSNN9S2&pd_rd_r=ae04cb53-80cc-4d2a-8def-b2306f485ca3&pd_rd_w=Gcspq&pd_rd_wg=n5iaJ&pf_rd_p=d12ea098-dcb9-49c6-b8ab-df62d91eb787&pf_rd_r=WFX91S83N53B5FWBB8XW&qid=1789867474&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=push%2Bbutton%2Caps%2C208&sr=1-1-7efdef4d-9875-47e1-927f-8c2c1c47ed49-spons&aref=9SHRCcj9y4&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1,,
+,5,Passive Buzzer,10,1,$4.00,$0.40,https://www.amazon.com/Shutao-Passive-Buzzer-12MMx9-5MM-Resistance/dp/B0GKNM192Y/ref=sr_1_1?crid=1X44JBHJ7KMAH&dib=eyJ2IjoiMSJ9.zW837HIrqKJyh8BxIT86KRNKYL6JPJhioipa6oMVSHQ6zDUTDGvcHJcTleRqvCsE6LV1RHI18M4iOlyemHkgeql3sjXkZaCbQ61Osa117ScdYoRLcegRIl0CbaCt6gZDoGz_EGYQGupggvONUFbTn-MP7C24NbkuTY5BRoHg4DZp6tXsNDOSLhMboShe9pRaj2sS4RRpnUVCvI9SGt0x_UcNTQT2KaXaSEBj0B2zxGc.D5yJjQ9ELstHyamDeNFhH0GusIiGOJA0lJR6pmSwvVI&dib_tag=se&keywords=5v%2Bpassive%2Bbuzzer&qid=1789867778&sprefix=5v%2Bpassive%2Bbuzzer%2Caps%2C193&sr=8-1&th=1,,
+,6,2k ohm 1% tol resistor,,4,,,,,Stockroom
+,7,10k ohm 1% tol resistor,,1,,,,,Stockroom
+,8,AAA Battery,36,3,$13.70,$1.14,https://www.amazon.com/Amazon-Basics-AAA-High-Performance-36/dp/B00LH3DMUO/ref=sr_1_3?dib=eyJ2IjoiMSJ9.evOvipSMRO9zRBzr8RnNuRP1sSS-AvFDKKa_jkNCrbJVUdczBtoGscNxSKbTvinnWk9hodIvxNqmBzGGj37e-rWLWi3E7cksVyh1DW57tmfVKRRMdlFNg2D0GgY5qrbVFAve0QgLUug6im2moDo8Ehx4HcGZ9vd8SvxtygzjKHgieS3kwKHODC5qC7lLtXjAUJY8n3wlASiPZW9oXOG5AKyZUHzVRtYVt1fcHq-wsWc.ztUUlSwIk35uN3nJIfT4bhuoA3Xrw5Ge28lYlCjAVpE&dib_tag=se&keywords=AAA%2Bbattery&qid=1789867542&sr=8-3&th=1,,
+,9,Keystone Battery contacts,12,3,$5.49,$1.37,https://www.amazon.com/Contacts-Negative-Positive-Conversion-Replacement/dp/B0DX1ZXXMG/ref=sr_1_6?crid=3CB9ZKSCNIMIN&dib=eyJ2IjoiMSJ9.RbMaR3CcWGam8M5PILgpIBnTwDaG9ToolqNrNwQkwLV-zlrAUSNMVGb4oYM8KRfeSXWcwmPfe6jG5ar60yoVHZW53oKhwYcMULX6SE63YQpm7A08mcoZDVH_tNVbuJ496pWHGvXz8huHMGCr_jeRMY1548Cgq8ghIbDUsCIwylCEMHTjOUxduc_8gBYU6wBgKNfGD_nm7Sry8NI2Q3C8aKJpmYEnuA9Lt_1o_9jb0Kc.0I60CvYjHOC5zux41wkkKveqEGk2WoTpVUsN_tkOpVU&dib_tag=se&keywords=keystone+battery+contacts+AAA&qid=1789867845&sprefix=keystone+battery+contacts+aaa%2Caps%2C175&sr=8-6,,quantity listed in pairs
+,10,SS12D00G SPST,40,1,$7.00,$0.18,https://www.amazon.com/SPDT-Mini-Micro-Slide-Switch/dp/B0DN68FJYT/ref=sr_1_2_sspa?crid=3VOXCD435JD7W&dib=eyJ2IjoiMSJ9.cgSkvFHjt_gptlFOxpSRbQ.UoTOkGYfFq82Jv1cRM6RmJOb53wwdyP7I5WqNSxMb5c&dib_tag=se&keywords=SS12D00G%2BSPST&qid=1789867946&sprefix=ss12d00g%2Bspst%2Caps%2C274&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1,,
+,11,4x 15mm M3 Screws,180,4,$8.54,$0.19,https://www.amazon.com/BNUOK-180pcs-Socket-Threads-Spanner/dp/B0DJQGGGJS/ref=sr_1_16?crid=2016YIVP2GA8E&dib=eyJ2IjoiMSJ9.v6F9B21Vvh3aRkpyguvA6kSPC44pgZkJRyjyD9b1gGH3VaS4xUIqv21eM5CbEYUII5772JVqe2XbTUw7C41v6cswok7QhHf0kindgCFY_sXK60Idajaj7XT5S3ezbXUDmO0HNiHdUX-ZnJN2QAkdWQjhfWSs6qEbi-MyCzUbt1eKYwtwzT1ZpDM8lW67RQtocBoRXUzB2JPzrwNuBQ_3hWO2U1dQQxIxBKMJ_javb8s.WAIoGvIxBRE5wJcI9xn_YNvthYNjQsuGvXT_MtusEks&dib_tag=se&keywords=15mm%2Bm3%2Bscrews&qid=1789868204&sprefix=15mm%2Bm3%2Bscrews%2Caps%2C205&sr=8-16&th=1,,
+,12,8 pin IC Holder,,1,,,,,"No need, already included with ATtiny85"
+,13,Male Header Pins,800,4,$6.29,$0.03,https://www.amazon.com/Straight-Breakaway-Connector-Breadboard-Electronic/dp/B0FRZW75VS/ref=sr_1_1_sspa?crid=1CCBL7PRH5F9S&dib=eyJ2IjoiMSJ9.ayRzpCTmdfi5gEU0s6L4dtYz3dSm1AMacnF7_H2DVws5MXAr9FMlsAXhMxJrLtyjJYNvQYJOfwcsBYwTm6b4KikkVJOVu373-UulI54r1otUEsW_6S8TYSRK8ZUU_092ot0wRIULK9XU6-dxfGSpxHuz-qrs1xc6yHLGUk5BjtAZn7X5dQial7YjQYueCY8LQ1wArDcobyoG1v1F9ptKc507M0BSppH42hcvPisthic.iRQsYKuCrdrN96SBrGPf2zV4G-qXwhQKDpH_ouQwVec&dib_tag=se&keywords=male%2Bheader%2Bpins%5C&qid=1789868105&sprefix=male%2Bheader%2Bpins%2Caps%2C204&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,,Stockroom
+,14,Various Wires,,,,,,,Stockroom
+,15,,,,,,,,
+,16,,,,,,,,
+,17,,,,,,,,
+,18,,,,,,,,
+,19,,,,,,,,
+,20,,,,,,,,
+,,,,,$106.02,$12.84,,,
+,,,,,,,,,
+,,,,,,,,,
+,TO DO:,,,,,,,,
+,Add ground plane,,,,,,,,
+,Double Check schematics and PCB routing,,,,,,,,
+,Remove the power switch terminals,,,,,,,,
+,Fix battery cover panel attachment,,,,,,,,
