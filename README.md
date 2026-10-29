@@ -95,3 +95,33 @@ Flip the board over and cut the extra leads just above each solder joint with fl
 
 <img src="./Images/13-trim-leads.jpg" width="300" alt="Trimming component leads on the back of the board with flush cutters">
 
+## Wiring the Battery Holder
+The three AAA batteries in the holder are connected in series. You'll run the **+** side through the slide switch and then send both wires up to the PCB.
+
+### Step 8: Gather the enclosure parts
+You'll need the top case, battery holder, black mounting plate, 5 button caps, 4 M3 × 15 mm screws, the slide switch, red and black wire, and 3 AAA batteries.
+
+Press the Keystone battery contacts into the battery holder if they aren't in already (they're already in place in the photo).
+
+<img src="./Images/14-enclosure-parts.jpg" width="300" alt="All enclosure parts laid out: case, battery holder, mounting plate, screws, button caps, switch, wires, and batteries">
+
+### Step 9: Wire the positive (+) contact to the switch
+1. Strip both ends of a red wire. Solder one end to the tab of the **flat (+)** end contact.
+2. Route the wire around the outside of the battery tray toward the switch slot.
+3. Push the slide switch into its slot and solder the red wire to one of the switch's **outer** pins.
+
+<img src="./Images/15-battery-positive-wire.jpg" width="300" alt="Holding a red wire to the positive battery contact tab"> <img src="./Images/16-route-positive-wire.jpg" width="300" alt="Red wire routed around the battery tray to the slide switch">
+
+<img src="./Images/17-positive-wire-to-switch.jpg" width="300" alt="Red wire soldered to an outer pin of the slide switch">
+
+### Step 10: Add the switch output and negative (−) wire
+1. Solder a second red wire to the **middle** pin of the switch. This wire carries power to the PCB, and only while the switch is on.
+2. Solder the black wire to the tab of the **spring (−)** end contact.
+
+<img src="./Images/18-switch-wiring.jpg" width="300" alt="Slide switch with the battery wire on an outer pin and the output wire on the middle pin"> <img src="./Images/19-battery-negative-wire.jpg" width="300" alt="Black wire soldered to the negative battery contact tab">
+
+### Step 11: Feed the wires through the holder
+Pass the red wire from the switch's middle pin and the black wire up through the slot in the battery holder.
+
+<img src="./Images/20-wires-through-slot.jpg" width="300" alt="Red and black wires looped up through the slot in the battery holder">
+
