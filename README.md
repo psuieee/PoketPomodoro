@@ -125,3 +125,71 @@ Pass the red wire from the switch's middle pin and the black wire up through the
 
 <img src="./Images/20-wires-through-slot.jpg" width="300" alt="Red and black wires looped up through the slot in the battery holder">
 
+## Final Assembly
+
+### Step 12: Add the mounting plate
+Set the black mounting plate on top of the battery holder, feeding the red and black wires through the hole in the plate.
+
+<img src="./Images/21-mounting-plate.jpg" width="300" alt="Black mounting plate lowered onto the battery holder with the wires fed through">
+
+### Step 13: Solder the battery wires to the PCB
+On the back of the PCB, find the two pads labeled **Batt in**:
+
+| Wire | Pad |
+|---|---|
+| Red (from the switch's middle pin) | **TP1** |
+| Black (from the − contact) | **TP2** |
+
+Double-check this before soldering. Reversed power can damage the parts.
+
+<img src="./Images/22-solder-batt-in.jpg" width="300" alt="Soldering the battery wires to the Batt in pads"> <img src="./Images/23-batt-in-closeup.jpg" width="300" alt="Close-up of the red and black wires soldered to the Batt in pads">
+
+### Step 14: Mount the PCB
+Fold the PCB down onto the mounting plate, front side up, and tuck the wires underneath.
+
+<img src="./Images/24-pcb-onto-plate.jpg" width="300" alt="Lowering the PCB onto the mounting plate"> <img src="./Images/25-pcb-onto-plate-back.jpg" width="300" alt="Back of the PCB with the wires as it's lowered onto the plate">
+
+### Step 15: Insert the ATtiny85
+Push the ATtiny85 into its socket with its notch (or dot) on the same side as the socket's notch. Make sure all 8 legs go into the socket and none fold underneath.
+
+> **Note:** The ATtiny85 has to be programmed with the Pocket Pomodoro firmware before it goes in.
+
+<!-- TODO: link the firmware and flashing instructions once they're in the repo -->
+
+<img src="./Images/26-insert-attiny85.jpg" width="300" alt="Inserting the ATtiny85 into its socket with tweezers">
+
+### Step 16: Test it
+Put the 3 AAA batteries in, matching the **+** and **−** markings, and slide the switch on. The display should show the day, date, and time, plus the **Work** timer. Try each button.
+
+<img src="./Images/27-power-test.jpg" width="300" alt="Powered-on board showing the time and Work timer on the display">
+
+If the display stays blank, check these in order:
+1. The switch is on and the batteries are the right way round.
+2. Red goes to **TP1** and black goes to **TP2** (Step 13).
+3. JP1 and JP2 match your display's pin order (Step 3).
+4. The ATtiny85 is the right way round with all legs in the socket (Step 15).
+5. The display's 4 solder joints are good (Step 2).
+
+### Step 17: Add the button caps
+Turn the top case upside down and drop a button cap into each of the 5 button holes from the inside.
+
+<img src="./Images/28-button-caps.jpg" width="300" alt="Placing button caps into the top case from the inside">
+
+### Step 18: Put the case on
+Hold the battery holder, plate, and PCB together and slide them into the top case. The display should line up with the window and the buttons with the caps.
+
+<img src="./Images/29-stack-into-case.jpg" width="300" alt="Sliding the assembled stack into the top case">
+
+### Step 19: Screw it together
+1. Put the 4 M3 × 15 mm screws through the corner holes of the battery holder.
+2. Before tightening the last ones, check that the switch and wires are seated and nothing is pinched.
+3. Tighten all 4 with the 2.5 mm hex key. Stop when they're snug so you don't strip the plastic.
+
+<img src="./Images/30-insert-screws.jpg" width="300" alt="Inserting an M3 screw into a corner of the battery holder"> <img src="./Images/31-tighten-screws.jpg" width="300" alt="Tightening a screw with a hex key">
+
+<img src="./Images/32-check-wiring.jpg" width="300" alt="Checking that the switch and wires are seated under the battery tray"> <img src="./Images/33-remaining-screws.jpg" width="300" alt="Inserting the remaining screws">
+
+### Step 20: Done!
+Slide the switch on and start your first Pomodoro.
+
+<img src="./Images/34-finished-front.jpg" width="300" alt="Finished Pocket Pomodoro showing the Work timer"> <img src="./Images/35-mk1-vs-mk2.jpg" width="300" alt="Finished Mk2 Pocket Pomodoro next to the original Mk1 board">
