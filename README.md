@@ -8,6 +8,13 @@ Here's the instructions and resources to build your very own Pomodoro! In this r
 # Instructions
 The instructions are setup into multiple subgroups in order to better organize the project and make it easier to setup.
 
+1. [What You'll Need](#what-youll-need)
+2. [Assembling the PCB](#assembling-the-pcb) (Steps 1–7)
+3. [Wiring the Battery Holder](#wiring-the-battery-holder) (Steps 8–11)
+4. [Final Assembly](#final-assembly) (Steps 12–20)
+
+Click any photo to open it full size.
+
 ## What You'll Need
 
 ### Parts
