@@ -51,7 +51,7 @@ Look over the bare board before you start. Every part has its outline and name p
 ### Step 2: Solder the OLED display
 1. Lay a strip of male header pins flat on the board where the bottom edge of the display will rest. It's only a spacer that keeps the display level, so it doesn't get soldered.
 2. Put the display's 4 pins through the holes labeled **GND VCC SCL SDA**. The labels on the display should match the labels on the board.
-3. Flip the board over and bend the pins slightly with needle-nose pliers so the display stays put. A strip of electrical tape over the display also helps hold it down.
+3. Put a strip of electrical tape over the display to hold it in place and flip it over.
 4. Look at the board from the side to check that the display sits level on the spacer, then solder the 4 pins.
 
 <img src="./Images/03-oled-header-spacer.jpg" width="300" alt="Header strip laid flat as a spacer under the display location"> <img src="./Images/04-oled-placed.jpg" width="300" alt="OLED display placed on the board">
@@ -59,6 +59,7 @@ Look over the bare board before you start. Every part has its outline and name p
 <img src="./Images/05-oled-pins-bent.jpg" width="300" alt="Bending the display pins on the back of the board with pliers"> <img src="./Images/06-oled-level-check.jpg" width="300" alt="Side view showing the display sitting level on the spacer">
 
 ### Step 3: Set the display jumpers (JP1 and JP2)
+This step can be ignored if your OLED pin polarity matches the PCB!
 JP1 and JP2, just left of the display, choose which display pin gets power and which gets ground. Each one is a row of three pads. Bridge the middle pad to one side with a blob of solder:
 
 | Your display's pin order | JP1 | JP2 |
